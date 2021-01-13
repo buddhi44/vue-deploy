@@ -38,7 +38,7 @@
 
     <div class="parallax-container  red">
                               
-          <img src="img/stars.jpg" alt="" class="parallax">
+          <!-- <img src="img/stars.jpg" alt="" class="parallax"> -->
                               
     </div>
 
